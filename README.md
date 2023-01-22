@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a Data Engineer at Hart with a growing interest in Rust for ETL. I am currently learning Rust and building my skills in Machine Learning. I also enjoy building apps in Python, SQL, and Scala.
+Hello, my name is Ayman Sulaiman and I am a data engineering professional with a passion for innovation and a drive to improve healthcare outcomes. With 3 years of experience in the tech industry, I have become a master of data management, processing, and analysis. I am skilled in Python, SQL, and Scala, and able to turn complex data sets into actionable insights. Currently, I am expanding my skill set by learning Rust, a programming language known for its performance and memory safety. I am not just a data engineer, but also a problem solver and a team player who is always looking for ways to improve and optimize the data process. I am the perfect addition to any team looking to make the most out of their data.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AymanSulaiman&icon=0&color=0)](https://visitcount.itsvg.in)
